@@ -1,4 +1,14 @@
 /* define custom properties */
+
+:root{
+    --color-primary: #D73953;
+    --color-balck: #090909;
+    --color-white: #ffffff;
+    --color-light-grey: #f3f3f3;
+    --color-dark-grey: #353535;
+    --text-color: var(--color-balck);
+}
+
 html{
     scroll-behavior: smooth;
 }
@@ -21,13 +31,4 @@ a{
 
 .section-tangle{
     color: var(--color-primary);
-}
-
-:root{
-    --color-primary: #D73953;
-    --color-balck: #090909;
-    --color-white: #FFFFFF;
-    --color-light-grey: #f3f3f3;
-    --color-dark-grey: #353535;
-    --text-color: var(--color-balck);
 }
