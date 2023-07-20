@@ -24,7 +24,7 @@
     --line-height-base: 1.5;
     --line-height-big: 1.8;
 
-    --secion-header-align: center;
+    --section-header-align: center;
     --section-tagline-trasnform: uppercase;
 }
 
@@ -60,7 +60,7 @@ a {
 }
 
 .section-header{
-    text-align: var(--secion-header-align);
+    text-align: var(--section-header-align);
 }
 
 .section-tagline {
