@@ -24,10 +24,10 @@
     --line-height-base: 1.5;
     --line-height-big: 1.8;
 
-    --secion-header-align: center;
+    --section-header-align: center;
     --section-tagline-trasnform: uppercase;
     
-    --secton-title-margin: 0;
+    --section-title-margin: 0;
     --section-title-color: var(--color-primary);
 }
 
@@ -63,14 +63,14 @@ a {
 }
 
 .section-header{
-    text-align: var(--secion-header-align);
+    text-align: var(--section-header-align);
 }
 
 .section-title{
     font-family: var(--font-family-title);
     font-size: var(--font-size-xx-large);
     font-weight: var(--font-weight-bold);
-    margin: var(--secton-title-margin);
+    margin: var(--section-title-margin);
     color: var(--section-title-color)
 
 }
