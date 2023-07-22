@@ -1,4 +1,4 @@
-/* creating section title*/
+/* add variable for alignment*/
 
 :root {
     --color-primary: #d73953;
@@ -58,7 +58,7 @@ a {
     color: var(--color-primary);
 }
 
-.section-header{
+.section-header {
     text-align: var(--section-header-align);
 }
 
